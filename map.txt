@@ -1,0 +1,10 @@
+Cincinnati 101 Columbus 
+Columbus 144 Cleveland
+Cincinnati 49 Dayton 
+Dayton 151 Toledo
+Marietta 48 Cambridge 
+Cambridge 119 Cleveland
+Dayton 75 Columbus 
+Columbus 80 Cambridge 
+Cambridge 51 MartinsFerry
+Toledo 115 Cleveland
